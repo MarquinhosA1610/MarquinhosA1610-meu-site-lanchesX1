@@ -2,6 +2,47 @@
     margin: 0px;
     padding: 0px; 
     box-sizing: border-box;
-    font-family: "", sans-serif;
+    font-family: "Baskervville SC", sans-serif;
+    font-style:normal;
+    background-color: darkslateblue;
+    color: white;
+    font-weight: 700;
 }
 
+.menu{
+    
+    align-items: center;
+    margin-top: 3%;
+    margin-left: 27%;
+    margin-bottom: 2%;
+    display: inline-block;
+}
+
+.a{
+    margin-right: 70px;
+    font-size: 17px;
+    cursor: pointer;
+    letter-spacing:2.5px;
+}
+
+.botão{
+    margin-right: 70px;
+    padding-inline: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 20px;
+    border-color: brown;
+    font-size: 15px;
+    background-color: indigo ;
+    border-width: 2.5px;
+    cursor: pointer;
+    letter-spacing:2.5px;
+}
+
+
+.Car{
+    margin-left: 35px;
+    letter-spacing:2.5px;
+    font-size: 17px;
+    cursor: pointer;
+}
