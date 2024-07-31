@@ -97,3 +97,17 @@ h1{
     color: rgb(224, 210, 13);
     font-size: 40PX;
 }
+
+.COCA, .laranja,
+.abacaxi, .sukita-img,
+.agua-img-, .cerv-img  {
+
+    height: 350px;
+    width: 670px;
+    box-sizing: border-box;
+    border-radius: 70px;   
+}
+
+.bebidas2 {
+    display: table;
+}
