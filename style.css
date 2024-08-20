@@ -178,7 +178,7 @@ h3{
 
 
 /* DIMENÇÕES DAS FOTOS  */
-.BATATA-CH,.ANEIS{ 
+.BATATA-CH,.ANEIS,.frango,.cala,.td{ 
    
     height: 350px;
     width: 670px;
@@ -189,7 +189,7 @@ h3{
 
 /* MARGENS DE DISTANCIA DE UMA DIV DA OUTRA, QUE COMPORTA AS IMAGENS */
 
-.p-bta,.Onion-RINGS{ 
+.p-bta,.Onion-RINGS,.frango,.cala-bresa,.tudao{ 
     margin-top: 15px;
     margin-bottom: 20px;
     margin-left: 35px;
@@ -200,7 +200,7 @@ h3{
 }
 
 
-.p-bta,.Onion-RINGS{  
+.p-bta,.Onion-RINGS,.frango,.cala-bresa,.td{  
     display: table-cell;
     float: left;
 
