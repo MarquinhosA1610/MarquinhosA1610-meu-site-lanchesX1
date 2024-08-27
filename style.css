@@ -67,6 +67,7 @@ h1{
     width: 670px;
     box-sizing: border-box;
     border-radius: 70px;
+    cursor: pointer;
     
 }
 /* MARGENS DE DISTANCIA DE UMA DIV DA OUTRA, QUE COMPORTA AS IMAGENS */
@@ -109,6 +110,7 @@ h1{
     width: 670px;
     box-sizing: border-box;
     border-radius: 70px; 
+    cursor: pointer;
 
     /* organizção  */
 }
@@ -184,6 +186,7 @@ h3{
     width: 670px;
     box-sizing: border-box;
     border-radius: 70px;
+    cursor: pointer;
     
 }
 
@@ -200,7 +203,7 @@ h3{
 }
 
 
-.p-bta,.Onion-RINGS,.frango,.cala-bresa,.td{  
+.p-bta,.Onion-RINGS,.frango,.cala-bresa,.tudao{  
     display: table-cell;
     float: left;
 
